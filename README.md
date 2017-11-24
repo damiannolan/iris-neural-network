@@ -42,8 +42,8 @@ features of the plants including:
 
 ## Usage & Dependencies
 
-Should you want to clone this repository and adapt the code for yourself, you will need the following prerequisites that
-you can obtain via the *pip* package manager.
+Should you want to clone this repository and adapt the code for yourself, you will need the prerequisites that are
+mentioned below otherwise you can simply:
 
 **1. Clone the repository**
 ```
