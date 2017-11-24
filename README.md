@@ -45,12 +45,12 @@ features of the plants including:
 Should you want to clone this repository and adapt the code for yourself, you will need the following prerequisites that
 you can obtain via the *pip* package manager.
 
-1. Clone the repository
+**1. Clone the repository**
 ```
 git clone https://github.com/damiannolan/iris-neural-network.git
 ```
 
-2. Start Jupyter Notebook
+**2. Start Jupyter Notebook**
 ```
 jupyter notebook
 ```
