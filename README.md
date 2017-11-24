@@ -39,3 +39,58 @@ features of the plants including:
 - Sepal Width
 - Petal Length
 - Petal Width
+
+## Usage & Dependencies
+
+Should you want to clone this repository and adapt the code for yourself, you will need the following prerequisites that
+you can obtain via the *pip* package manager.
+
+1. Clone the repository
+```
+git clone https://github.com/damiannolan/iris-neural-network.git
+```
+
+2. Start Jupyter Notebook
+```
+jupyter notebook
+```
+
+If you are new to Python you may want to follow to the instructions below for installing a number of different
+dependencies.
+
+### Python
+You can download for Windows by following instructions [here!](https://docs.python.org/3/using/windows.html). If you are
+on MacOS I recommend using [Homebrew](https://brew.sh/)
+
+```
+brew install python3
+```
+
+Alternatively you can download a larger distribution which will include a number of different packages from
+[Anaconda](https://anaconda.org/anaconda/python).
+
+### Numpy
+You can obtain Numpy, SciPy and Matplotlib with:
+
+```
+brew tap homebrew/science && brew install python numpy scipy matplotlib
+```
+
+### Jupyter Notebook
+
+```
+pip3 install jupyter
+```
+
+### Tensorflow
+
+```
+pip3 install tensorflow
+```
+
+### Keras
+
+```
+pip3 install keras
+```
+
