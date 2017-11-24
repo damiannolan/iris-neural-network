@@ -11,6 +11,9 @@ Previously, in the repository linked above we looked at loading the *Iris* csv d
 fit line for the data set and various subsets using [Numpy's
 polyfit](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.polyfit.html) and by also writing our own gradient descent algorithm. We took a brief look a Scatterplot matrices using a relatively new library called [Seaborn](https://seaborn.pydata.org/).
 
+[Click this link to jump straight into the
+Notebook](https://github.com/damiannolan/iris-neural-network/blob/master/iris-neural-network.ipynb)
+
 ## Problem Set
 
 In this Problem Set we look at the following issues:
